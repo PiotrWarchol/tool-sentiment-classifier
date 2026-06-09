@@ -1,0 +1,15 @@
+# Large data files
+train.csv
+test.csv
+train_clean.csv
+test_clean.csv
+reviews_raw.csv
+amazon_review_polarity_csv.tgz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# VS Code
+.vs/
